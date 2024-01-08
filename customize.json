@@ -1,10 +1,10 @@
 {
   "greeting": "Sasa 👋", 
-  "name": "Kairish",
+  "name": "Kairish", 
   "greetingText": "My beautiful Wifey",
   "wishText": "🎂 and to many more!!!🎂",
-  "imagePath": "img/valentine.jpg",
-  "text1": "🎊Yeey!!🎊 🎂It's your birthday!!! 🎂", 
+  "imagePath": "img/valentine-min.jpg",
+  "text1": "🎊🎂It's your birthday today!!! 🎂🎊", 
   "textInChatBox": "We started in the 10s lived the 20s...",
   "sendButtonLabel": "Send",
   "text2": "and now another decade together starts 🥹",
